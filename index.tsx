@@ -1,3 +1,4 @@
+import { ConfigProvider } from 'antd';
 import * as React from 'react';
 import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
